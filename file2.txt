@@ -1,2 +1,2 @@
 This is file two
-Learning Git commands
+Learning Git remote
